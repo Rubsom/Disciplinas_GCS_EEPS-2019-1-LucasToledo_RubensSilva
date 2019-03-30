@@ -1,0 +1,2 @@
+# GCS
+Gerencia de Configuração
